@@ -1,5 +1,10 @@
 # IntelligenceBody
 
-Final Code.
-Copyright @ fengh16.
-17.5.14
+Code for `IntelligenceBody`. The final version.
+
+****
+### Author:fengh16
+### E-mail:fengh16@163.com
+****
+
+　　智能体比赛最终代码。Codetopia
